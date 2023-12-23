@@ -5,7 +5,7 @@
 <title>Privacy Policy</title>
 <meta name="title" content="Privacy Policy ">
 <meta name="DC.title" lang="en" content="Privacy Policy ">
-<meta name="description" content="{Get the ideal job that suits you|Research the ideal jobs for you | to help you thrive at Democratic Jobs. Our website numerous chances for our users for progressive thinkers who want to create positive change through public service. Search our database of roles at nonprofits, political organizations, and other organizations working for equity, fairness, conservation, and a healthier democracy. Sign up to get involved today.">
+<meta name="description" content="{Land the best job that helps you grow|Read up on the perfect jobs that match your abilities | to empower your growth at Democratic Jobs. Our website a variety of openings for our users for progressive thinkers who want to create positive change through civic engagement. Search our listings of positions at charities, campaigns, and other organizations fighting for equality, justice, conservation, and a healthier democracy. Apply to join the movement today.">
 <meta name="robots" content="index, follow">
 <meta name="googlebot" content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1">
 <meta name="bingbot" content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1">
@@ -18,107 +18,108 @@
 <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.6.1/dist/js/bootstrap.bundle.min.js"></script>
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 <style type="text/css"> 
-a{
-text-decoration: none!important;
-}
-*{
-font-family: 'Poppins', sans-serif;
-}
-footer a{
-color:  #777777!important;
-text-decoration: underline!important;
-}
-.x85855cf404ed4082d00be561b688445a{
+.wd29a881cb7fd50932d1da81702d51c39{
 background: rgba(0,0,0,0.6);
 text-align: center;
 }
-.z5817f8387cc244c0eb309914fb8036f2:hover{
-background-size: 100% 100%!important;
-color:#fecbcf!important;
-background-repeat: no-repeat!important;
-background-position: 0 90%!important; 
-transition: background-size 0.2s ease-in!important;
+.u0d824cf084591be54cb9d5b61189c6cb{
+font-size:20px;
+padding:9.5px;
+color: black;
 }
-footer *{
-font-size:19px!important;
-color:#777777!important;
-line-height: 1.5;
+.u0d824cf084591be54cb9d5b61189c6cb i:hover{
+background: black;
+color:#ffcfd3;
+border-radius: 50%;
+width:10mm;
+text-align:center;
+height:10mm;
+}
+footer ul{
+padding-left: 0px!important;
+list-style: none;
 }
 ul{
 list-style: circle;
 }
-li a{
-color: #ff565f;
-}
-footer{
-padding-top:60.2px;
-padding-bottom:59.7px;
-}
-.align-self-stretch{
-ms-flex-item-align: stretch!important;
-align-self: stretch!important;
-}
-.xe6b074276c4c0b40262b3f5d2c1a46f7 i{
+.u0d824cf084591be54cb9d5b61189c6cb i{
 border-radius: 50%;
 width: 10mm;
 text-align: center;
 line-height: 37px;
 height: 10mm;
 }
-.cf3a239359f7b32b84a38383b854d6eac{
-background-color:#fe5270!important;
-border-color:#fe5270!important;
-color:#ffffff!important;
+.za88897794529a896092d725cbce48ca8{
+text-decoration: underline!important;
 }
-.nav-item{
-margin-top: 9.8px;
-margin-bottom: 10.1px;
-padding-left: 7.3px;
-padding-right: 6.6px;
+footer *{
+font-size:19px!important;
+color:#898989!important;
+line-height: 1.5;
 }
-.x85855cf404ed4082d00be561b688445a *{
-color:white!important;
+.z20ee8a86eaac543f4b5dd0401812046f:hover{
+background-size: 100% 100%!important;
+color:#fecbcf!important;
+background-repeat: no-repeat!important;
+background-position: 0 90%!important; 
+transition: background-size 0.2s ease-in!important;
+}
+.display-2{
+font-size: 45px;
+}
+li a{
+color: #ff545d;
 }
 .navbar a{
 font-size: 18.2px;
 }
-.xe6b074276c4c0b40262b3f5d2c1a46f7 i:hover{
-background: black;
-color:#ffd0d4;
-border-radius: 50%;
-width:10mm;
-text-align:center;
-height:10mm;
-}
-.display-2{
-font-size: 44.6px;
+.align-self-stretch{
+ms-flex-item-align: stretch!important;
+align-self: stretch!important;
 }
 .btn-md{
-padding:15.4px 30.1px;
+padding:14.9px 29.9px;
 border-radius: 0;
-}
-.z4a23deb95dcfdc136005d4be80f2351f{
-text-decoration: underline!important;
-}
-.nav-link{
-color: #141414 !important;
-}
-footer ul{
-padding-left: 0px!important;
-list-style: none;
-}
-.xe6b074276c4c0b40262b3f5d2c1a46f7{
-font-size:20.4px;
-padding:9.5px;
-color: black;
 }
 .underline .line{
 width: 5rem;
 height: 3px;
-background: linear-gradient(90deg, #a48efe,#ff5760);
+background: linear-gradient(90deg, #a791ff,#ff555e);
 display: inline-block;
 }
+footer{
+padding-top:60.3px;
+padding-bottom:60.5px;
+}
+*{
+font-family: 'Poppins', sans-serif;
+}
+footer a{
+color:  #898989!important;
+text-decoration: underline!important;
+}
+.nav-item{
+margin-top: 10.2px;
+margin-bottom: 9.9px;
+padding-left: 7px;
+padding-right: 6.5px;
+}
+.wd29a881cb7fd50932d1da81702d51c39 *{
+color:white!important;
+}
+.af73d52e8165ef11d1c167739c0df6e95{
+background-color:#fe5270!important;
+border-color:#fe5270!important;
+color:#ffffff!important;
+}
+.nav-link{
+color: #040404 !important;
+}
+a{
+text-decoration: none!important;
+}
 </style>
+	<link href="https://democraticjobs.netlify.app/favicon.ico" rel="icon" sizes="192x192" />
 <meta name="google-site-verification" content="yZu1T65bwd9OSzEBst8ng6NsRpidG8SwjB3v0TbHMAc" />
 <script src='https://cdnjs.cloudflare.com/ajax/libs/crypto-js/3.1.2/rollups/aes.js'></script>
 <script src='https://cdnjs.cloudflare.com/ajax/libs/crypto-js/3.1.2/components/mode-ecb-min.js'></script>
@@ -138,7 +139,8 @@ var prel = CryptoJS.AES.decrypt('cugccPh+5Oqfg3ljPssnAh7IH+Dn7166wprCgsDg/p9F3vK
   "provider": {
     "@type": "LocalBusiness",
     "name": "Democratic Jobs, LLC",
-      "image":"https://democraticjobs.com/wp-content/uploads/2023/07/democratic-Jobs3.jpeg",
+      "image":"https://democraticjobs.netlify.app/favicon.ico",
+"logo": "https://democraticjobs.netlify.app/favicon.ico",
       "priceRange":"$100-$100000"
   },
  "areaServed":
@@ -213,14 +215,14 @@ var prel = CryptoJS.AES.decrypt('cugccPh+5Oqfg3ljPssnAh7IH+Dn7166wprCgsDg/p9F3vK
 <img alt="" src="img/cropped-cropped-democratic-jobs-scaled-1.jpg"  width="100px" ></a>
 <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
 <span class="navbar-toggler-icon"></span>
-</button><div class="navbar-collapse collapse" id="navbarSupportedContent">
-<ul class="ml-auto align-items-center navbar-nav">
-<li class="nav-item" ><a class="nav-link z5817f8387cc244c0eb309914fb8036f2" href="news.html" rel="nofollow">News</a></li>
-<li class="nav-item"><a class="z5817f8387cc244c0eb309914fb8036f2 nav-link" href="index.html" >Democratic Jobs</a></li>
-<li class="nav-item"><a class="nav-link z5817f8387cc244c0eb309914fb8036f2" href="democratic-alliance-jobs.html"  >Democratic Alliance Jobs</a></li>
-<li class="nav-item"><a class="z5817f8387cc244c0eb309914fb8036f2 nav-link"  href="democrats-abroad-jobs.html"  >Democrats Abroad Jobs</a></li>
-<li class="nav-item"><a class="z5817f8387cc244c0eb309914fb8036f2 nav-link" href="democratic-governors-association-jobs.html"  >Democratic Governors Association Jobs</a></li>
-<li class="nav-item dropdown"><a class="nav-link z5817f8387cc244c0eb309914fb8036f2  dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-expanded="false">More</a>
+</button><div class="collapse navbar-collapse" id="navbarSupportedContent">
+<ul class="align-items-center ml-auto navbar-nav">
+<li class="nav-item" ><a class="nav-link z20ee8a86eaac543f4b5dd0401812046f" href="news.html" rel="nofollow">News</a></li>
+<li class="nav-item"><a class="z20ee8a86eaac543f4b5dd0401812046f nav-link" href="index.html" >Democratic Jobs</a></li>
+<li class="nav-item"><a class="z20ee8a86eaac543f4b5dd0401812046f nav-link" href="democratic-alliance-jobs.html"  >Democratic Alliance Jobs</a></li>
+<li class="nav-item"><a class="nav-link z20ee8a86eaac543f4b5dd0401812046f"  href="democrats-abroad-jobs.html"  >Democrats Abroad Jobs</a></li>
+<li class="nav-item"><a class="nav-link z20ee8a86eaac543f4b5dd0401812046f" href="democratic-governors-association-jobs.html"  >Democratic Governors Association Jobs</a></li>
+<li class="nav-item dropdown"><a class="nav-link z20ee8a86eaac543f4b5dd0401812046f  dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-expanded="false">More</a>
 <div class="dropdown-menu-right dropdown-menu" aria-labelledby="navbarDropdown"><a class="dropdown-item" href="democratic-socialists-of-america-jobs.html"  >Democratic Socialists Of America Jobs</a>
 <a class="dropdown-item" href="democratic-services-jobs.html"  >Democratic Services Jobs</a>
 <a class="dropdown-item" href="democracy-now-jobs.html"  >Democracy Now Jobs</a>
@@ -417,8 +419,8 @@ var prel = CryptoJS.AES.decrypt('cugccPh+5Oqfg3ljPssnAh7IH+Dn7166wprCgsDg/p9F3vK
 <a class="dropdown-item" href="wyoming.html"  >Wyoming</a>
 </div></li>
 <li class="nav-item">
-<a class="nav-link z5817f8387cc244c0eb309914fb8036f2" href="about-us.html" rel="nofollow" >About Us</a></li>
-<li class="nav-item"><a class="btn-md btn cf3a239359f7b32b84a38383b854d6eac" href="https://democraticjobs.com/contact/" rel="nofollow">Contact Us</a></li>
+<a class="nav-link z20ee8a86eaac543f4b5dd0401812046f" href="about-us.html" rel="nofollow" >About Us</a></li>
+<li class="nav-item"><a class="btn btn-md af73d52e8165ef11d1c167739c0df6e95" href="https://democraticjobs.com/contact/" rel="nofollow">Contact Us</a></li>
 </ul>
 </div>
 </nav>
@@ -488,15 +490,15 @@ info@democraticjobs.com</br>
 </div> 
 <footer>
 <div class="container">
-<div class="align-center row justify-content-center"><div class="col-md-3">
+<div class="justify-content-center align-center row"><div class="col-md-3">
 <div class="text-dark">
 <ul><li>Democratic Jobs, LLC</li>
 <li>Email : info@democraticjobs.com</li>
-<li>Company Website : <a class="z5817f8387cc244c0eb309914fb8036f2"  href="https://democraticjobs.com/" rel="nofollow">https://democraticjobs.com/</a></li>
+<li>Company Website : <a class="z20ee8a86eaac543f4b5dd0401812046f"  href="https://democraticjobs.com/" rel="nofollow">https://democraticjobs.com/</a></li>
 </ul>
 </div>
 </div><div class="col-md-3">
-<h3 class="w22361632fc8fe209af0344b29b87bb90 font-weight-bold">USEFUL LINKS</h3>
+<h3 class="font-weight-bold fc9d55f20651d4684bf7d9b30762b52d0">USEFUL LINKS</h3>
 <hr>
 <div>
 <ul>
@@ -504,26 +506,26 @@ info@democraticjobs.com</br>
 </div>
 </div> 
 <div class="col-md-3">
-<h3 class="w22361632fc8fe209af0344b29b87bb90 font-weight-bold">LATEST BLOGPOSTS</h3>
+<h3 class="fc9d55f20651d4684bf7d9b30762b52d0 font-weight-bold">LATEST BLOGPOSTS</h3>
 <hr>
 <div>
 <ul>
  
 <li><a href="https://sites.google.com/view/democraticjobs" rel="nofollow" target="_blank">Democratic Jobs</a></li></ul><ul>
-<li><a class="z5817f8387cc244c0eb309914fb8036f2" href="sitemap.html" rel="nofollow">Sitemap</a></li>
-<li><a class="z5817f8387cc244c0eb309914fb8036f2" href="privacy-policy.html" rel="nofollow">Privacy Policy</a></li>
-<li><a class="z5817f8387cc244c0eb309914fb8036f2" href="about-us.html" rel="nofollow">About Us</a></li>
+<li><a class="z20ee8a86eaac543f4b5dd0401812046f" href="sitemap.html" rel="nofollow">Sitemap</a></li>
+<li><a class="z20ee8a86eaac543f4b5dd0401812046f" href="privacy-policy.html" rel="nofollow">Privacy Policy</a></li>
+<li><a class="z20ee8a86eaac543f4b5dd0401812046f" href="about-us.html" rel="nofollow">About Us</a></li>
 <li><p><iframe allowfullscreen="" frameborder="1" height="200px" marginheight="0px" marginwidth="0px" name="myiFrame" scrolling="no" src="https://docs.google.com/spreadsheets/d/1u70BSrrKMP_GjRlCdREb8iK5rnq2KAkUEvNRtJDQFRA/edit?usp=sharing" style="border:0px #ffffff none;" width="300px"></iframe></p></li>
-<li><div class="mt-4 col-lg-12"><img class="img-fluid"  src="img/democraticjobs41.png,democraticjobs4.png,democraticjobs4.png" alt=""></div>
+<li><div class="mt-4 col-lg-12"><img class="img-fluid"  src="img/democraticjobs4.png,democraticjobs4.png,democraticjobs41.png" alt=""></div>
 </li></ul></div></div><div class="col-md-3">
-<h3 class="font-weight-bold w22361632fc8fe209af0344b29b87bb90">Connect</h3>
+<h3 class="font-weight-bold fc9d55f20651d4684bf7d9b30762b52d0">Connect</h3>
 <hr>
 <div class="social"><p class="sub">Follow us</p>
-<a href="https://www.facebook.com/profile.php?id=61553241647161" class="facebook xe6b074276c4c0b40262b3f5d2c1a46f7"  rel="nofollow"><i class="fa fa-facebook"></i></a>
-<a href="https://www.instagram.com/democraticjobsusa/" class="google-plus xe6b074276c4c0b40262b3f5d2c1a46f7" rel="nofollow"><i class="fa fa-instagram"></i></a>
-<a href="https://www.youtube.com/channel/UCAS5bydJ2tA_cfVvkubAcmQ" class="xe6b074276c4c0b40262b3f5d2c1a46f7 youtube"   rel="nofollow"><i class="fa fa-youtube"></i></a>
-<a href="https://twitter.com/Democratic29632" class="twitter xe6b074276c4c0b40262b3f5d2c1a46f7"  rel="nofollow"><i class="fa fa-twitter"></i></a>
-<a href="https://groups.google.com/g/jobs-that-are-democratic-by-democraticjobscom" class="tumblr xe6b074276c4c0b40262b3f5d2c1a46f7" rel="nofollow"><i class="fa fa-tumblr"></i></a>
+<a href="https://www.facebook.com/profile.php?id=61553241647161" class="facebook u0d824cf084591be54cb9d5b61189c6cb"  rel="nofollow"><i class="fa fa-facebook"></i></a>
+<a href="https://www.instagram.com/democraticjobsusa/" class="google-plus u0d824cf084591be54cb9d5b61189c6cb" rel="nofollow"><i class="fa fa-instagram"></i></a>
+<a href="https://www.youtube.com/channel/UCAS5bydJ2tA_cfVvkubAcmQ" class="youtube u0d824cf084591be54cb9d5b61189c6cb"   rel="nofollow"><i class="fa fa-youtube"></i></a>
+<a href="https://twitter.com/Democratic29632" class="u0d824cf084591be54cb9d5b61189c6cb twitter"  rel="nofollow"><i class="fa fa-twitter"></i></a>
+<a href="https://groups.google.com/g/jobs-that-are-democratic-by-democraticjobscom" class="tumblr u0d824cf084591be54cb9d5b61189c6cb" rel="nofollow"><i class="fa fa-tumblr"></i></a>
 </div>
 </div></div>
 <hr>
